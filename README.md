@@ -83,7 +83,7 @@ Software Engineer with deep focus on backend architecture, API engineering, data
 
 ### Education & Certifications
 
-- **Master of Computer Applications (MCA)**: Sikkim Manipal University (2024 to Present)
+- **Master of Computer Applications (MCA)**: Sikkim Manipal University (2024 to 2026)
 - **Bachelor of Computer Applications (BCA)**: Acharya Institutes (2021 to 2024)
 - **Certifications**: OCI Developer Professional, IBM Full Stack Software Developer, Docker & Kubernetes Specialization
 

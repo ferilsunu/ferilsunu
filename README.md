@@ -71,26 +71,6 @@ Software Engineer with deep focus on backend architecture, API engineering, data
 
 ---
 
-### Featured Work
-
-- **[NoteX](https://github.com/ferilsunu/NoteX)** ([Live Demo](https://notes.ferilsunu.com))  
-  Fullstack rich-text document and notes application featuring JWT security, folder management, real-time search, and responsive mobile interface.  
-  `Node.js` `Express` `MongoDB` `Handlebars` `JWT`
-
-- **[Twitter-Clone-Nextjs](https://github.com/ferilsunu/Twitter-Clone-Nextjs)** ([Live Demo](https://twitter.ferilsunu.com))  
-  Production-grade Twitter/X clone with 3-column desktop layout, mobile navigation bar, persistent light/dark mode, real-time tweet feed, and skeleton loaders.  
-  `Next.js` `React` `Tailwind CSS` `Prisma` `MongoDB` `NextAuth`
-
-- **[YouTube-Channel-Analyzer](https://github.com/ferilsunu/YouTube-Channel-Analyzer)** ([Live Demo](https://analyzer.ferilsunu.com))  
-  Channel analytics platform leveraging YouTube Data API v3 for CPM revenue estimation, engagement benchmarking, and embedded video playback.  
-  `Node.js` `Express` `Handlebars` `YouTube API`
-
-- **[weather-app](https://github.com/ferilsunu/weather-app)** ([Live Demo](https://weather.ferilsunu.com))  
-  Minimalist real-time weather application delivering live meteorological conditions and dynamic forecasts.  
-  `Node.js` `Express` `OpenWeather API`
-
----
-
 ### GitHub Stats & Contribution Activity
 
 <div align="center">
